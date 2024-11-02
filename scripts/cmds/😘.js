@@ -15,7 +15,7 @@ module.exports = {
  if (event.body && event.body.toLowerCase() === "😘") {
  return message.reply({
  body: " 「❥︎----ღ᭄_আই লাভ য়উ আরিফ❞࿐.🙂❥︎---\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\ARIF~KHAN」",
- attachment: await global.utils.getStreamFromURL("https://cdn.fbsbx.com/v/t59.3654-21/465019634_1087957656075690_2877642317146212449_n.mp3/1730393978031.mp3?_nc_cat=110&ccb=1-7&_nc_sid=d61c36&_nc_eui2=AeH7a8lrDD3z7-QZlA3w-DTuMeweGzR2efAx7B4bNHZ58MGyprBF6H0SurzLwU5_jmddFlbd2IbSMuLnB6ACDM5z&_nc_ohc=YedllqQUPW0Q7kNvgEh6mEV&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=Ae3ANgp5HYFBxAKUVV-ZdSu&oh=03_Q7cD1QHJuRHMeiRxUC8v-dYoevCxuzWbZQadsgQMxubzs11XFA&oe=6725AED5&dl=1")
+ attachment: await global.utils.getStreamFromURL("https://cdn.fbsbx.com/v/t59.3654-21/465019634_1087957656075690_2877642317146212449_n.mpga/3CfNi9HrPW.mpga?_nc_cat=110&ccb=1-7&_nc_sid=d61c36&_nc_eui2=AeHPASz7RyP7Y9EsI2ADCM2zMeweGzR2efAx7B4bNHZ58CWpyL-AKe4SoNACF5wVS-MLhsS4XzyJWoxGQOiKxdbo&_nc_ohc=sVbEOmtTjX4Q7kNvgHvjfxb&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=AV-CbxypSDneR4YEq0R73Xb&oh=03_Q7cD1QFC7LvpnpLEFRO8q2nfQl487N9f61tyqlZZoL3MOC_t1A&oe=67286707&dl=1")
  });
  }
  }
